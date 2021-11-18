@@ -1,4 +1,3 @@
-Importing libraries:
 # DSND-P1
 This is project 1 from Data Scientist Nanodegree, in this project a data1 dataset has been used to answer some questions of interest.
 ### Table of Contnt:
