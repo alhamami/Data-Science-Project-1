@@ -25,7 +25,7 @@ There is notebook available here to showcase the work related to the above quest
 also there is CSV file containg the dataset that have been used.
 
 ## Result<a name="result"></a>
-The main observations of the analysis can be found at this [post](https://medium.com/@jalalalhamami?p=a6a6b9b82cc4).
+The main observations of the analysis can be found at this [post](https://medium.com/@jalalalhamami/processing-cars-data-to-facilitate-its-handling-and-benefit-a6a6b9b82cc4).
 
 ## Licensing, Authors, Acknowledgements, etc. <a name="LAA"></a>
 The copyrights of the used dataset belongs to [Kaggle](https://www.kaggle.com/)
