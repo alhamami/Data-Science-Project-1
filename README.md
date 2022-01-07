@@ -4,7 +4,7 @@ This is project 1 from Data Scientist Nanodegree, in this project a data1 datase
 1. [Installations](#installation)
 2. [Project Motivation](#ProjectMotivation)
 3. [File Descriptions](#FileDescriptions)
-4. [Result](result)
+4. [Result](#result)
 5. [Licensing, Authors, Acknowledgements, etc.](#LAA)
 
 ## Installations <a name="installation"></a>
